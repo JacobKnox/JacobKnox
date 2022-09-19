@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm Jacob Knox
 
-<!--
-**JacobKnox/JacobKnox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/JacobKnox)](https://www.facebook.com/jacobaknox)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/JacobKnox)](https://www.instagram.com/epicguy203/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/JacobKnox)](https://www.linkedin.com/in/jacobknoxa/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h4>
+
+I have knowledge in: JavaScript, HTML, CSS, VueJS, Boostrap, PHP, Python, and Java.
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacobKnox&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacobKnox&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacobKnox&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacobKnox&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=JacobKnox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
