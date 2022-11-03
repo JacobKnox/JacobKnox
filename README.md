@@ -8,7 +8,7 @@
 
 </h4>
 
-I have knowledge in: JavaScript, HTML, CSS, VueJS, Boostrap, PHP, Python, and Java.
+I have knowledge in: JavaScript, HTML, CSS, VueJS, Boostrap, PHP, Laravel, Python, and Java.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacobKnox&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacobKnox&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacobKnox&theme=nord_dark) |
 | :-: | :-: | :-: |
