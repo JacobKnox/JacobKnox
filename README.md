@@ -13,15 +13,15 @@ I have knowledge in: JavaScript, HTML, CSS, VueJS, Boostrap, PHP, Laravel, Pytho
 <table align="center">
   <tr>
     <td>
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacobKnox&count_private=true&theme=nord_dark)
+      ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacobKnox&theme=nord_dark)
     </td>
     <td>
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacobKnox&theme=nord_dark)
+      ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacobKnox&theme=nord_dark)
     </td>
   </tr>
   <tr>
     <td>
-      ![](https://github-readme-streak-stats.herokuapp.com/?user=JacobKnox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff)
+      ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacobKnox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff)
     </td>
   </tr>
 </table>
