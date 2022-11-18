@@ -9,6 +9,7 @@
 </h4>
 
 I have knowledge in: JavaScript, HTML, CSS, VueJS, Boostrap, PHP, Laravel, Python, and Java.
+For a one stop shop of my publicly available projects, check out my projects repository [here](https://github.com/JacobKnox/Jacob-Knox-Projects#readme)!
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacobKnox&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacobKnox&theme=nord_dark) |
