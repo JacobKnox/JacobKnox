@@ -11,10 +11,7 @@
 I have knowledge in: JavaScript, HTML, CSS, VueJS, Boostrap, PHP, Laravel, Python, and Java.
 
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacobKnox&theme=nord_dark)
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacobKnox&theme=nord_dark)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacobKnox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacobKnox&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacobKnox&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=JacobKnox&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: | :-: |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKnox&langs_count=10&theme=radical)
