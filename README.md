@@ -17,5 +17,5 @@ I have knowledge in: JavaScript, HTML, CSS, VueJS, Boostrap, PHP, Laravel, Pytho
 | :-: | :-: |
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JacobKnox&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKnox&count_private=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JacobKnox&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKnox&langs_count=10&theme=radical)
