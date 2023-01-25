@@ -21,5 +21,5 @@ For a one stop shop of my publicly available projects, check out my projects rep
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKnox&langs_count=10&theme=radical) |
 | :-: |
 
-! [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) |
+! [![trophy](https://github-profile-trophy.vercel.app/?username=JacobKnox)](https://github.com/ryo-ma/github-profile-trophy) |
 | :-: |
