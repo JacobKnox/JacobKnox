@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Jacob Knox</h1>
 
-<h4 align="center">
+<p align="center">
 <a href="https://www.facebook.com/jacobaknox"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/JacobKnox" /></a>
 
 <a href="https://www.instagram.com/epicguy203/"><img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/JacobKnox" /></a>
 
 <a href="https://www.linkedin.com/in/jacobknoxa/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/JacobKnox" /></a>
-</h4>
+</p>
 
 I have knowledge in: JavaScript, HTML, CSS, VueJS, Boostrap, PHP, Laravel, Python, and Java.
 For a one stop shop of my publicly available projects, check out my projects repository [here](https://github.com/JacobKnox/Jacob-Knox-Projects#readme)!
