@@ -12,11 +12,12 @@ I have knowledge in: JavaScript, HTML, CSS, VueJS, Boostrap, PHP, Laravel, Pytho
 For a one stop shop of my publicly available projects, check out my projects repository [here](https://github.com/JacobKnox/Jacob-Knox-Projects#readme)!
 
 <p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacobKnox&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacobKnox&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacobKnox&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacobKnox&theme=nord_dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JacobKnox&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKnox&langs_count=10&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=JacobKnox)](https://github.com/ryo-ma/github-profile-trophy)
+![[Trophies](https://github-profile-trophy.vercel.app/?username=JacobKnox)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
