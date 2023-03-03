@@ -32,7 +32,7 @@
         <td><a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/></a></td>
         <td><a href="https://flutter.dev/"><img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="30" height="30"/></a></td>
         <td><a href="https://dart.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="30" height="30"/></a></td>
-        <td></td>
+        <td><a href="https://bulma.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" width="30" height="30"/></a></td>
         <td></td>
         <td></td>
     </tr>
