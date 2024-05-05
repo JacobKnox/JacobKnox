@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Jacob Knox</h1>
 
-I am a senior at Florida Southern College with majors in Computer Science and Applied Mathematics and a minor in Data Analytics. I am currently seeking roles in software development/engineering, backend or fullstack web development, or machine learning engineering for post-graduation (May 2024).
+I am a graduate of Florida Southern College with Bachelor's of Science degrees in Computer Science and Applied Mathematics and a minor in Data Analytics. I am currently seeking roles in software development/engineering, backend or fullstack web development, or machine learning engineering.
 
 <h3 align="center">Online Presence</h3>
 <p align="center">Just about anything you'll need to find about me online is easily accessible through my Linktree below.</p>
